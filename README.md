@@ -8,7 +8,7 @@ If the link doesn’t load, I’ve captured a screenshot and saved it as a PDF f
 > [BuildersDNA_ContactUsPage_WebArchive.pdf](https://github.com/user-attachments/files/18970608/BuildersDNA_ContactUsPage_WebArchive.pdf)
 
 ## Description
-I was tasked to build a modern, high-performance website to achieve three goals:
+I was tasked with building a modern, high-performance website to achieve three goals:
 - **Establish a web presence** by creating a consumer-facing website.  
 - **Optimize traffic conversion** by driving users toward clear calls to action.  
 - **Integrate analytics and marketing tools** to track user behavior.  

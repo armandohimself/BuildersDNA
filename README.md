@@ -13,8 +13,10 @@ Web archive takes about 6-10 seconds to load in all assets.
 ```
 
 If the link doesn’t load, I’ve captured a screenshot and saved it as a PDF for easy viewing.
-> [BuildersDNA_WebArchive.pdf](https://github.com/user-attachments/files/18970571/BuildersDNA_WebArchive.pdf)
-> [BuildersDNA_ContactUsPage_WebArchive.pdf](https://github.com/user-attachments/files/18970608/BuildersDNA_ContactUsPage_WebArchive.pdf)
+```
+[BuildersDNA_WebArchive.pdf](https://github.com/user-attachments/files/18970571/BuildersDNA_WebArchive.pdf)
+[BuildersDNA_ContactUsPage_WebArchive.pdf](https://github.com/user-attachments/files/18970608/BuildersDNA_ContactUsPage_WebArchive.pdf)
+```
 
 ## Responsibilities
 * Designed and developed a consumer-facing website using Webflow with custom JavaScript, CSS, and marketing tracking tools such as Facebook Pixel, Google Analytics, SEMrush, and Hotjar.
